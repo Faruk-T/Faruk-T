@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&duration=3500&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=Hey+I'm+Faruk;Full-Stack+Developer;Java+%7C+React+%7C+SQL+%7C+PostgreSQL;Welcome+to+my+GitHub+page)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?size=27&duration=3500&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=Hey+I'm+Faruk;Full-Stack+Developer;Java+%7C+React+%7C+SQL+%7C+PostgreSQL;Welcome+to+my+GitHub+page" alt="Hey I'm Faruk" />
 
 <br />
 
@@ -42,16 +42,6 @@ I build clean, fast, and production-ready systems with **Java**, **React**, **SQ
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Faruk-T/Faruk-T/main/dist/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Faruk-T/Faruk-T/main/dist/github-contribution-grid-snake-dark.svg" />
   </picture>
-</div>
-
----
-
-### GitHub stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Faruk-T&show_icons=true&theme=default&hide_border=true&title_color=2563eb&icon_color=61DAFB" alt="stats" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faruk-T&layout=compact&theme=default&hide_border=true&title_color=2563eb" alt="languages" />
 </div>
 
 ---
